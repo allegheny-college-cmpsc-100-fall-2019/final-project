@@ -1,7 +1,7 @@
 # CMPSC 100-03: Optional Final Project
 
 * Assigned: 18 October 2019
-* Due: 15 December 2019, by 11:00 AM
+* Due: 17 December 2019, by 11:00 AM
 * Point value: 100 pts
 
 ## Project description
